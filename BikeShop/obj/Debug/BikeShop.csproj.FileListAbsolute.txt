@@ -16,3 +16,7 @@ C:\Users\tlqkf\Desktop\C#\BikeShop\obj\Debug\BikeShop.csproj.GenerateResource.ca
 C:\Users\tlqkf\Desktop\C#\BikeShop\obj\Debug\BikeShop.csproj.CoreCompileInputs.cache
 C:\Users\tlqkf\Desktop\C#\BikeShop\obj\Debug\BikeShop.exe
 C:\Users\tlqkf\Desktop\C#\BikeShop\obj\Debug\BikeShop.pdb
+C:\Users\tlqkf\Desktop\C#\BikeShop\obj\Debug\Menu.g.cs
+C:\Users\tlqkf\Desktop\C#\BikeShop\obj\Debug\Menu.baml
+C:\Users\tlqkf\Desktop\C#\BikeShop\obj\Debug\Discussion.g.cs
+C:\Users\tlqkf\Desktop\C#\BikeShop\obj\Debug\Discussion.baml
