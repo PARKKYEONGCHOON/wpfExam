@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace BikeShop
 {
     /// <summary>
-    /// Menu.xaml에 대한 상호 작용 논리
+    /// Interaction logic for Menu.xaml
     /// </summary>
     public partial class Menu : Page
     {
@@ -25,19 +25,25 @@ namespace BikeShop
             InitializeComponent();
         }
 
-        private void btn_Emailsupport_Click(object sender, RoutedEventArgs e)
+        private void button2_Click(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new Uri("/Contact.xaml",UriKind.Relative));
+            NavigationService.Navigate(
+              new Uri("/Contact.xaml", UriKind.Relative)
+            );
         }
 
-        private void btn_Livesupport_Click(object sender, RoutedEventArgs e)
+        private void button1_Click(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new Uri("/Discussion.xaml", UriKind.Relative));
+            NavigationService.Navigate(
+              new Uri("/Discussion.xaml", UriKind.Relative)
+            );
         }
 
-        private void btn_product_Click(object sender, RoutedEventArgs e)
+        private void button_Click(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new Uri("/ProductsManagement.xaml", UriKind.Relative));
+            NavigationService.Navigate(
+              new Uri("/ProductsManagementMVVM.xaml", UriKind.Relative)
+            );
         }
     }
 }

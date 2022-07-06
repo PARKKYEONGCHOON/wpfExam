@@ -5,14 +5,36 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:BikeShop"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
-      Title="Contact">
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="Contact"
+      Background="{StaticResource background}">
 
     <Grid>
-        <TextBlock x:Name="Sender" Margin="43,31,658,0" TextWrapping="Wrap" Text="Sender" VerticalAlignment="Top" Height="29" Background="White"/>
-        <TextBlock x:Name="Message" Margin="43,82,658,0" TextWrapping="Wrap" Text="Message" VerticalAlignment="Top" Height="29" Background="White"/>
-        <TextBox x:Name="textBox" Height="29" Margin="162,31,30,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top"/>
-        <TextBox x:Name="textBox_Copy" Margin="162,82,30,32" TextWrapping="Wrap" Text="TextBox"/>
-
+        <TextBlock x:Name="textBlock"
+                   HorizontalAlignment="Left"
+                   Margin="10,11,0,0"
+                   TextWrapping="Wrap"
+                   Text="Sender"
+                   VerticalAlignment="Top" />
+        <TextBlock x:Name="textBlock1"
+                   HorizontalAlignment="Left"
+                   Margin="10,39,0,0"
+                   TextWrapping="Wrap"
+                   Text="Message"
+                   VerticalAlignment="Top" />
+        <TextBox x:Name="textBox"
+                 HorizontalAlignment="Left"
+                 Height="23"
+                 Margin="71,10,0,0"
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="439" />
+        <TextBox x:Name="textBox1"
+                 HorizontalAlignment="Left"
+                 Height="275"
+                 Margin="71,38,0,0"
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="439" />
     </Grid>
 </Page>

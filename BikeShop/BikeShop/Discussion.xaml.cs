@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace BikeShop
 {
     /// <summary>
-    /// Discussion.xaml에 대한 상호 작용 논리
+    /// Interaction logic for Discussion.xaml
     /// </summary>
     public partial class Discussion : Page
     {

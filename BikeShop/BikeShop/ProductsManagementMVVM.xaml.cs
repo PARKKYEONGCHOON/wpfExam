@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace BikeShop
 {
     /// <summary>
-    /// Interaction logic for Contact.xaml
+    /// Interaction logic for ProductsManagementMVVM.xaml
     /// </summary>
-    public partial class Contact : Page
+    public partial class ProductsManagementMVVM : Page
     {
-        public Contact()
+        public ProductsManagementMVVM()
         {
             InitializeComponent();
         }
