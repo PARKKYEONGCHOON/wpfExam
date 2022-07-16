@@ -1,0 +1,17 @@
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\bin\Debug\WPFMVVMnameExam.exe.config
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\bin\Debug\WPFMVVMnameExam.exe
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\bin\Debug\WPFMVVMnameExam.pdb
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\WPFMVVMnameExam.csproj.AssemblyReference.cache
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\MainWindow.g.cs
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\View\ViewName.g.cs
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\App.g.cs
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\WPFMVVMnameExam_MarkupCompile.cache
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\WPFMVVMnameExam_MarkupCompile.lref
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\MainWindow.baml
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\View\ViewName.baml
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\WPFMVVMnameExam.g.resources
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\WPFMVVMnameExam.Properties.Resources.resources
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\WPFMVVMnameExam.csproj.GenerateResource.cache
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\WPFMVVMnameExam.csproj.CoreCompileInputs.cache
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\WPFMVVMnameExam.exe
+C:\Users\tlqkf\Desktop\C#\WPFMVVMnameExam\WPFMVVMnameExam\obj\Debug\WPFMVVMnameExam.pdb
